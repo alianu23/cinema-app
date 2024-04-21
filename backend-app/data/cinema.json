@@ -1,0 +1,216 @@
+{
+  "cinemas": [
+    {
+      "cinemaName": "Өргөө",
+      "icon": "",
+      "branches": [
+        {
+          "name": "Өргөө-1",
+
+          "location": {
+            "address": {
+              "street": "Бага тойруу",
+              "city": "Ulaanbaatar",
+              "zipCode": 14200
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://www.zendmentravel.com/wp-content/uploads/2018/05/Urguu_3-original-original-.jpg"
+        },
+        {
+          "name": "Өргөө-2 IT парк",
+
+          "location": {
+            "address": {
+              "street": "Ард Аюушийн өргөн чөлөө ",
+              "city": "Ulaanbaatar",
+              "zipCode": 16091
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://visitulaanbaatar.net/storage/uploads/2018/12/urgoo-3.jpg"
+        },
+        {
+          "name": "Өргөө 3 IMAX Шангри-Ла Төв",
+
+          "location": {
+            "address": {
+              "street": "Олимпын гудамж",
+              "city": "Ulaanbaatar",
+              "zipCode": 14241
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/f8/be/f6/urgoo-3-cinema-imax.jpg"
+        },
+        {
+          "name": "Өргөө 4 Эрдэнэт хот",
+
+          "location": {
+            "address": {
+              "street": "Бага тойруу",
+              "city": "Ulaanbaatar",
+              "zipCode": 14200
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://i.pinimg.com/originals/d2/d1/65/d2d16526530e09bc12803672ad407996.jpg"
+        },
+        {
+          "name": "Өргөө 5 Laser Cinema",
+
+          "location": {
+            "address": {
+              "street": "Бага тойруу",
+              "city": "Ulaanbaatar",
+              "zipCode": 14200
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "http://shangrilacentreub.mn/media/shangrila/content/edited_OdKo_IMAX.JPG"
+        },
+        {
+          "name": "Өргөө 6 Дархан хот",
+
+          "location": {
+            "address": {
+              "street": "Бага тойруу",
+              "city": "Ulaanbaatar",
+              "zipCode": 14200
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://mongolia.com/wp-content/uploads/2020/03/dr_016.jpg"
+        },
+        {
+          "name": "Өргөө 7 Парк-Од Молл",
+
+          "location": {
+            "address": {
+              "street": "Их Хүрээ Гудамж ",
+              "city": "Ulaanbaatar",
+              "zipCode": 13312
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://booking.urgoo.mn/CDN/media/entity/get/CinemaGallery/0007"
+        }
+      ]
+    },
+    {
+      "cinemaName": "Тэнгис",
+      "icon": "",
+      "branches": [
+        {
+          "name": "Тэнгис",
+          "location": {
+            "address": {
+              "street": "Tengis cinema",
+              "city": "Ulaanbaatar",
+              "zipCode": 15141
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://www.tengis.mn/static/tengis.jpg"
+        }
+      ]
+    },
+
+    {
+      "cinemaName": "Prime Cineplex",
+      "icon": "",
+      "branches": [
+        {
+          "name": "prime-cineplex-1",
+
+          "location": {
+            "address": {
+              "street": "Khan-Uul District",
+              "city": "Ulaanbaatar",
+              "zipCode": 17023
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://www.tengis.mn/static/tengis.jpg"
+        },
+        {
+          "name": "prime-cineplex-2",
+
+          "location": {
+            "address": {
+              "street": "Bayanzurkh district",
+              "city": "Ulaanbaatar",
+              "zipCode": 13312
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://primecineplex.com/Assets/exolutus/css/Style_v3.0/images/ChoamChao_Branch.jpg"
+        },
+        {
+          "name": "prime-cineplex-3",
+
+          "location": {
+            "address": {
+              "street": "Амгалангийн Ботаникийн цэцэрлэг",
+              "city": "Ulaanbaatar",
+              "zipCode": 13271
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://i.ytimg.com/vi/C4LhrAoBj98/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "cinemaName": "Хүннү",
+      "icon": "",
+      "branches": [
+        {
+          "name": "Хүннү",
+
+          "location": {
+            "address": {
+              "street": "Яармагийн зам",
+              "city": "Ulaanbaatar",
+              "zipCode": 17110
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://content.ikon.mn/news/2015/3/24/8972ca_Hunnu_Mall_15_03_24_x974.jpg"
+        }
+      ]
+    },
+    {
+      "cinemaName": "Гэгээнтэн",
+      "icon": "",
+      "branches": [
+        {
+          "name": "Гэгээнтэн",
+
+          "location": {
+            "address": {
+              "street": "Зайсангийн гудамж ",
+              "city": "Ulaanbaatar",
+              "zipCode": 17013
+            }
+          },
+          "opening": "9:00",
+          "closing": "01:00",
+          "image": "https://pbs.twimg.com/media/CMHnNDCWEAApF9h.jpg"
+        }
+      ]
+    }
+  ]
+}

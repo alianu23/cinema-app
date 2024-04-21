@@ -1,0 +1,594 @@
+{
+  "films": [
+    {
+      "title": "Dune: Part II",
+      "poster": {
+        "vertical": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/2a5bb2105168471.5f733bb4cec20.jpg",
+        "lands": {
+          "land1": "https://www.findelahistoria.com/web/wp-content/uploads/2023/06/Nuevo-trailer-de-DUNE-Parte-Dos.jpg",
+          "land2": "https://ichef.bbci.co.uk/news/976/cpsprodpb/6B9E/production/_132705572_4155f4d6-7d6f-46b1-8bfd-02f7a5e982e1.jpg"
+        }
+      },
+      "duration": "166",
+      "releaseDate": "2024-03-01",
+      "director": "Денис Вильнев",
+      "genre": "Адал явдал, Драм",
+      "movie_trailer": "https://trailer.movieglu.com/324892_high_V3.mp4",
+      "synopsis": "\"Dune: Хоёрдугаар хэсэг\" нь Пол Атрейдесийн гэр бүлийг нь устгасан хуйвалдагчдын эсрэг өшөө авах дайны замд явж байхдаа Чани болон Фремен нартай нэгдэж буй домогт аяллыг судлах болно. Амьдралынхаа хайр, хайр дурлал хоёрын хоорондох сонголтын өмнө. Мэдэгдэж буй орчлон ертөнцийн хувь заяаг зөвхөн түүний урьдчилан харж чадах аймшигт ирээдүйгээс урьдчилан сэргийлэхийг хичээдэг.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "IMAX",
+      "cast": [
+        {
+          "name": "Тимоти Чаламет",
+          "img": "https://kingchoice.me/media/CACHE/images/dc5101614a768433a04816cf8f56bdb6_2YlnIng/d79b5c4bca807d12f57a445a01eb6272.jpg "
+        },
+        {
+          "name": "Зэндая",
+          "img": "https://goldenglobes.com/wp-content/uploads/2023/10/Zendaya-GettyImages-1401833833.jpg "
+        },
+        {
+          "name": "Остин Батлер",
+          "img": "https://tse2.mm.bing.net/th?id=OIP.8ZYlvMKkUAHpu_Msdj7glgHaE8&pid=Api&P=0&h=220"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Kung Fu Panda 4",
+      "poster": {
+        "vertical": "https://pictures.betaseries.com/films/affiches/es/81683.jpg",
+        "lands": {
+          "land1": "https://gadgetfreeks.com/wp-content/uploads/2020/05/Kung-Fu-Panda-4.jpg ",
+          "land2": "https://tse4.mm.bing.net/th?id=OIF.tWKFbeoa8W1E3asuFwnncg&pid=Api&P=0&h=220"
+        }
+      },
+      "duration": "166",
+      "releaseDate": "2024-03-08",
+      "director": "Майк Митчелл",
+      "genre": "Адал явдал",
+      "movie_trailer": "https://trailer.movieglu.com/357576_high.mp4",
+      "synopsis": "\"Күнфу Панда - 4\" По Энх тайвны хөндийн сүнслэг удирдагчаар сонгогдохдоо шинэ дайчин бэлтгэх ёстой. Гэсэн хэдий ч хэлбэрээ өөрчилдөг хүчирхэг илбэчин түүний мэргэн ухааны таяг руу нүдээ тавих үед тэр гэнэт ухаарчээ. Түүнд тусламж хэрэгтэй болно. Түргэн ухаантай хярс үнэгтэй нийлж По удалгүй баатруудыг санаанд оромгүй газраас олж болохыг олж мэдэв",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "3D",
+      "cast": [
+        {
+          "name": "Жак Блэк",
+          "img": "https://townsquare.media/site/959/files/2020/03/GettyImages-jack-black.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        },
+        {
+          "name": "Авквафина",
+          "img": "https://i.pinimg.com/originals/f8/d8/7f/f8d87f2dbad8edca1eb0dde21e3c39ad.jpg "
+        },
+        {
+          "name": "Остин Батлер",
+          "img": "https://tse2.mm.bing.net/th?id=OIP.8ZYlvMKkUAHpu_Msdj7glgHaE8&pid=Api&P=0&h=220"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Oppenheimer",
+      "poster": {
+        "vertical": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/07/23/oppenheimer.jpg",
+        "lands": {
+          "land1": "https://assets-global.website-files.com/630d4d1c4a462569dd189855/64c19105282a4f4d3e2ba884_2c130933-15f5-4898-a6d6-3d5180b7c2e8%201.webp",
+          "land2": "https://miro.medium.com/v2/resize:fit:1200/1*D3b_i2JTYiH641CNd8xdXQ.jpeg"
+        }
+      },
+      "duration": "166",
+      "releaseDate": "2023-07-21",
+      "director": "Кристофер Нолан",
+      "genre": "Намтар, Жүжиг, Түүх",
+      "movie_trailer": "https://trailer.movieglu.com/339741_high_V2.mp4",
+      "synopsis": "\"Оппенгеймер\" Америкийн эрдэмтэн Ж.Роберт Оппенхаймерын түүх ба атомын бөмбөг бүтээхэд гүйцэтгэсэн үүрэг.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "IMAX",
+      "cast": [
+        {
+          "name": "Эмили Блант",
+          "img": "https://media.themoviedb.org/t/p/w500/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+        },
+        {
+          "name": "Роберт Дауни Жр",
+          "img": "https://hips.hearstapps.com/hmg-prod/images/robert-downey-jr-attends-the-96th-oscars-nominees-luncheon-news-photo-1708713684.jpg?crop=0.504xw:0.596xh;0.244xw,0.0388xh&resize=640:*"
+        },
+        {
+          "name": "Килиан Мерфи",
+          "img": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2016/04/Cillian-Murphy.jpg?fit=618%2C412&ssl=1"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Barbie",
+      "poster": {
+        "vertical": "https://people.com/thmb/9yRnzHexJ3yTkrIHuerxMXzdN40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(674x0:676x2)/barbie-film-040623-3-2000-7397405bc6f0493d80ef365a55fba7eb.jpg",
+        "lands": {
+          "land1": "https://www.barbie-themovie.com/images/share.jpg",
+          "land2": "https://media.newyorker.com/photos/64baa7a29e87508ed764fdf3/master/pass/Brody-Barbie-Review.jpg"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2023-07-21",
+      "director": "Грета Гервиг",
+      "genre": "Адал явдал, Инээдмийн, Уран зөгнөлт",
+      "movie_trailer": "https://trailer.movieglu.com/215333_high_V3.mp4",
+      "synopsis": " Барби Кен хоёр амьдралынхаа цагийг өнгөлөг бөгөөд төгс мэт харагдах Барби газрын ертөнцөд өнгөрөөж байна. Гэсэн хэдий ч тэд бодит ертөнцөд очих боломж олдвол удалгүй хүмүүсийн дунд амьдрахын баяр баясгалан, аюулыг олж мэдэрдэг.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "3D",
+      "cast": [
+        {
+          "name": "Райн",
+          "img": "https://i.insider.com/64a325b16075be0019c28e16?width=700"
+        },
+        {
+          "name": "Маргот",
+          "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/138D1/production/_132518008_gettyimages-1917155375.jpg"
+        },
+        {
+          "name": "Исса Рэ",
+          "img": "https://m.media-amazon.com/images/M/MV5BMjQwMzEwMDQ2NF5BMl5BanBnXkFtZTgwMzU4NTY4NjE@._V1_.jpg"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Mothers' Instinct",
+      "poster": {
+        "vertical": "https://upload.wikimedia.org/wikipedia/en/1/18/Mothers%27_Instinct_Poster.jpg",
+        "lands": {
+          "land1": "https://i.ytimg.com/vi/hVMo9vRbROI/hqdefault.jpg",
+          "land2": "https://i.ytimg.com/vi/aLikloRQiUE/hqdefault.jpg"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2024-03-27",
+      "director": "Бенуа Делхомм",
+      "genre": "Драм, триллер",
+      "movie_trailer": "https://trailer.movieglu.com/354315_high.mp4",
+      "synopsis": "\"Mothers' Instinct\"Алис, Селин хоёр ижил насны амжилттай нөхөр, хөвгүүдтэй уламжлалт амьдралын хэв маягаар амьдардаг. Амьдралын төгс зохицол эмгэнэлт ослын дараа гэнэт эвдэрдэг. Гэм буруу, хардлага, гаж донтолт хоёр нийлж эгч дүүсийн холбоогоо тайлах болно.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "2D",
+      "cast": [
+        {
+          "name": "Энн Хэтэуэй",
+          "img": "https://s.yimg.com/zb/imgv1/e20c5d14-a203-3878-babd-7188dafd8119/t_500x300"
+        },
+        {
+          "name": "Андерс Даниэлсен",
+          "img": "https://tse2.mm.bing.net/th?id=OIP.4aacSBK4l4VHJ770-7_83gHaJ4&pid=Api&P=0&h=220"
+        },
+        {
+          "name": "Жессика Чэстэйн",
+          "img": "https://cdn.britannica.com/39/218339-050-DAF84EE9/American-actress-Jessica-Chastain-2018.jpg"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Immaculate",
+      "poster": {
+        "vertical": "https://ih1.redbubble.net/image.5468438278.3962/flat,750x,075,f-pad,750x1000,f8f8f8.webp",
+        "lands": {
+          "land1": "https://i.ytimg.com/vi/ewxS9Z-XXYo/maxresdefault.jpg",
+          "land2": "https://sportshub.cbsistatic.com/i/2024/03/07/3dc199ae-6531-42df-a4b5-cf7c081e437a/screenshot-2024-03-07-at-5-26-15-pm.png?width=1200"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2024-03-22",
+      "director": "Майк Мохан",
+      "genre": "Драм, Аймшигийн",
+      "movie_trailer": "https://trailer.movieglu.com/355421_high.mp4",
+      "synopsis": "\"Immaculate\"Сидней Суини (Чамаас бусад нь, Эйфориа, Цагаан бадамлянхуа) нь Италийн үзэсгэлэнт хөдөө нутагт орших алслагдсан сүм хийдэд шинэ аялал хийж буй сүсэг бишрэлтэй Америкийн гэлэнмаа Сесилиягийн дүрд тоглосон. Сесилиагийн халуун дотноор угтан авсан нь хар дарсан зүүд болон хувирч, түүний шинэ гэрт аймшигтай нууц, үгээр хэлэхийн аргагүй аймшигт зүйлс нуугдаж байгаа нь тодорхой болно.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "IMAX",
+      "cast": [
+        {
+          "name": "Сидней Суни",
+          "img": "https://s.yimg.com/zb/imgv1/e20c5d14-a203-3878-babd-7188dafd8119/t_500x300"
+        },
+        {
+          "name": "Альваро Морте",
+          "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjdeC1uPWVSaZJ3QT7EqQTQqfxPJZPyH_gCmAm4DjtpAFt6Xon"
+        },
+        {
+          "name": "Бенедетта Поркароли",
+          "img": "https://cdn.britannica.com/39/218339-050-DAF84EE9/American-actress-Jessica-Chastain-2018.jpg"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Wicked Little Letters",
+      "poster": {
+        "vertical": "https://upload.wikimedia.org/wikipedia/en/7/70/Wicked_Little_Letters_poster.jpg",
+        "lands": {
+          "land1": "https://i.ytimg.com/vi/ONM_7OPuSUw/sddefault.jpg",
+          "land2": "https://i.ytimg.com/vi/fgqQvmbP-UU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOmBDsQJqGmjOgVTHi8RQcQQnf7Q"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2024-02-23",
+      "director": "Теа Шаррок",
+      "genre": "Драм",
+      "movie_trailer": "https://trailer.movieglu.com/349463_high.mp4",
+      "synopsis": "\"MWicked Little Letters\"1920-иод оны Английн далайн эргийн хот нь энэхүү эмх замбараагүй нууцлаг инээдмийн кинонд аймшигт, хааяа нэг аймшигт дуулианы гэрч болж байна. Зөгнөлт гэхээсээ үл таних бодит түүхээс сэдэвлэсэн (МУУ БЯЦХАН ЗАХИАД) кино нь хоёр хөршийн тухай өгүүлнэ: гүн гүнзгий консерватив орон нутгийн Эдит Свон (Оливиа Колман) болон хэрүүлч Ирландын цагаач Роуз Гудинг (Жесси Бакли).",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "2D",
+      "cast": [
+        {
+          "name": "Жесси Бакли",
+          "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYAhZ8A1PswqvluT2LVuSe7TgYv26ymSfal3TquuCQJlt3bvNt"
+        },
+        {
+          "name": "Тимоти Спал",
+          "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwYSgPBzpjfPnawj4fYtKjDaI8lIU7ePklGhRNOe0aPaPAYbYk"
+        },
+        {
+          "name": "Анжана Васан",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-xfiCKnBzxMckvIinyrjMKuvbX2GTUNikHPBN9_rK2MgPDFt"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Migration",
+      "poster": {
+        "vertical": "https://image.movieglu.com/329314/GBR_329314h0.jpg",
+        "lands": {
+          "land1": "https://image.movieglu.com/329314/329314h2.jpg",
+          "land2": "https://image.movieglu.com/329314/329314h3.jpg"
+        }
+      },
+      "duration": "82",
+      "releaseDate": "2024-02-02",
+      "director": "Бенжамин Реннер",
+      "genre": "Хүүхэлдэй, Адал явдалт",
+      "movie_trailer": "https://trailer.movieglu.com/329314_high_V3.mp4",
+      "synopsis": "\"Migration\"Маллардын гэр бүл жаахан хямарч байна. Аав Мак гэр бүлээ Шинэ Английн цөөрмийн эргэн тойронд үүрд сэлүүрдэн аюулгүй байлгахад сэтгэл хангалуун байгаа бол ээж Пам бүх зүйлийг сэгсэрч, өсвөр насны хүү Дакс, дэгдээхэй охин Гвен хоёрыг дэлхий даяар харуулахыг хүсч байна",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "2D",
+      "cast": [
+        {
+          "name": "Кумайл Нанжиани",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kumail_Nanjiani_by_Gage_Skidmore_2.jpg/640px-Kumail_Nanjiani_by_Gage_Skidmore_2.jpg"
+        },
+        {
+          "name": "Элизабэт Бэнкс",
+          "img": "https://m.media-amazon.com/images/M/MV5BY2UxNzE4YWMtNDRiMi00MzY1LTkwZjgtNzA0MjA2NTNjZjRmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+        },
+        {
+          "name": "Авквафина",
+          "img": "https://m.media-amazon.com/images/M/MV5BMTU0NTUwNjkyN15BMl5BanBnXkFtZTgwMjM0NzEzMTI@._V1_.jpg"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Godzilla x Kong: The New Empire",
+      "poster": {
+        "vertical": "https://miro.medium.com/v2/resize:fit:1000/1*U0zzy1GM-6WRnWhmkw4Wjw.jpeg",
+        "lands": {
+          "land1": "https://i.ytimg.com/vi/0hTWFlmh9UQ/maxresdefault.jpg",
+          "land2": "https://www.escapistmagazine.com/wp-content/uploads/2022/06/new-godzilla-kong-sequel-movie-2024.jpeg?w=1200"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2024-03-29",
+      "director": "Адам Вингард ",
+      "genre": "Адал явдал, Шинжлэх ухааны уран зөгнөлт",
+      "movie_trailer": "https://trailer.movieglu.com/346189_high_V2.mp4",
+      "synopsis": "\"Godzilla x Kong: The New Empire\"Годзилла, Конг хэмээх эртний хоёр титан нар баатарлаг тулалдаанд тулалдаж, хүмүүс хоорондоо холбоотой гарал үүслийг тайлж, Гавалын арлын нууцлаг харилцааг тайлж байна.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "3D",
+      "cast": [
+        {
+          "name": "Shameik Moore",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdr2hTkTx5SeAwg9A1-opCEXmY0zMe7Hpi-Qiq3oyCrQ&s"
+        },
+        {
+          "name": "Hailee Steinfeld",
+          "img": "https://hips.hearstapps.com/hmg-prod/images/hailee-steinfeld-visits-build-london-on-december-7-2017-in-london-england-photo-by-mike-marsland_mike-marsland_wireimage.jpg"
+        },
+        {
+          "name": "Oscar Isaac",
+          "img": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-914705386.jpg?crop=1xw:0.8316666666666667xh;center,top&resize=640:*"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Ghostbusters: Frozen Empire",
+      "poster": {
+        "vertical": "https://m.media-amazon.com/images/M/MV5BNGE5MWJmZWYtN2ZlMi00ZjY1LTlhYTUtMzQ2Y2IxZWQyYTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+        "lands": {
+          "land1": "http://www.ghostbusters.com/images/share.jpg",
+          "land2": "https://www.monsterfest.com.au/monsterfest/wp-content/uploads/2023/11/GhostbustersFrozenEmpire-NWP-600x338.jpg"
+        }
+      },
+      "duration": "114",
+      "releaseDate": "2024-03-22",
+      "director": "Гил Кенан",
+      "genre": "Адал явдал, Инээдмийн, Уран зөгнөлт",
+      "movie_trailer": "https://trailer.movieglu.com/353879_high_V2.mp4",
+      "synopsis": "\"Ghostbusters: Frozen Empire\" кинонд Шпенглерийн гэр бүл бүх зүйл эхэлсэн газар болох Нью-Йорк хотын галын голомт руу буцаж ирж, сүнснүүдийг устгах маш нууц судалгааны лабораторийг бүтээсэн анхны Сүнс хорлогчидтой хамтрах болно. Гэвч эртний олдвор олдсоноор хотыг үхэлд хүргэсэн сүнснүүдийн армийг гаргахад шинэ болон хуучин Сүнстэй харьцагч нар гэр орноо хамгаалж, дэлхийг хоёр дахь мөстлөгөөс аврахын тулд хүчээ нэгтгэх ёстой.",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "3D",
+      "cast": [
+        {
+          "name": "Пол Радд",
+          "img": "https://www.usmagazine.com/wp-content/uploads/2019/11/Paul-Rudd-irish-bar-in-basement.jpg"
+        },
+        {
+          "name": "Кэрри Кун",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carrie_Coon_at_2013_Toronto_Film_Festival.jpg/440px-Carrie_Coon_at_2013_Toronto_Film_Festival.jpg"
+        },
+        {
+          "name": "Маккенна Грейс",
+          "img": "https://s.yimg.com/zb/imgv1/7d5e2e29-a9c7-398a-ace3-ec479ec0c87b/t_500x300"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Imaginary",
+      "poster": {
+        "vertical": "https://image.movieglu.com/347015/GBR_347015h0.jpg",
+        "lands": {
+          "land1": "https://image.movieglu.com/347015/347015h2.jpg",
+          "land2": "https://image.movieglu.com/347015/347015h3.jpg"
+        }
+      },
+      "duration": "105",
+      "releaseDate": "2024-03-08",
+      "director": "Гил Кенан",
+      "genre": "Аймшигийн",
+      "movie_trailer": "https://trailer.movieglu.com/347015_high_V2.mp4",
+      "synopsis": "\"Imaginary\" Жессика (ДеВанда Уайз) гэр бүлийнхээ хамт бага насныхаа гэр рүү нүүж ирэхэд түүний хамгийн бага дагавар охин Алис (Пайпер Браун) хонгилоос олдсон Чонси хэмээх чихмэл баавгайтай аймшигт дотно харилцаатай болжээ.",
+      "cinemas": [
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "2D",
+      "cast": [
+        {
+          "name": "ДеВанда Мэргэн",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/DeWanda_Wise_%282019%29.png"
+        },
+        {
+          "name": "Том Пэйн",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tom_by_Pablo_Laguia.jpg"
+        },
+        {
+          "name": "Тэген Бернс",
+          "img": "https://m.media-amazon.com/images/M/MV5BYmE0NDhjNzItNzVmYS00YWY3LWFlZmItMDE2NzVlMzEyMTg4XkEyXkFqcGdeQXVyNzQxNDc1NTk@._V1_.jpg"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    },
+    {
+      "title": "Robot Dreams",
+      "poster": {
+        "vertical": "https://image.movieglu.com/348681/GBR_348681h0.jpg",
+        "lands": {
+          "land1": "https://image.movieglu.com/348681/348681h2.jpg",
+          "land2": "https://image.movieglu.com/348681/348681h3.jpg"
+        }
+      },
+      "duration": "102",
+      "releaseDate": "2024-03-22",
+      "director": "Пабло Бергер",
+      "genre": "Хүүхэлдэй, Адал явдалт",
+      "movie_trailer": "https://trailer.movieglu.com/348681_high.mp4",
+      "synopsis": "\"Robot Dreams\" DOG Манхэттэн хотод амьдардаг бөгөөд ганцаараа байхаас залхаж байна. Нэгэн өдөр тэр өөрийгөө робот, хамтрагч бүтээхээр шийджээ...",
+      "cinemas": [
+        "66014ea0bfbc2722d353235a",
+        "66014ea0bfbc2722d353235b",
+        "66014ea0bfbc2722d353235c",
+        "66014ea0bfbc2722d353235d",
+        "66014ea0bfbc2722d353235e",
+        "66014ea0bfbc2722d353235f",
+        "66014ea0bfbc2722d3532360",
+        "66014ea0bfbc2722d3532361",
+        "66014ea0bfbc2722d3532362",
+        "66014ea0bfbc2722d3532363",
+        "66014ea0bfbc2722d3532364",
+        "66014ea0bfbc2722d3532365",
+        "66014ea0bfbc2722d3532366"
+      ],
+      "movieType": "2D",
+      "cast": [
+        {
+          "name": "Иван Лабанда",
+          "img": "https://www.teatrebarcelona.com/wp-content/uploads/2021/12/MINIATURATEATRE_BARCELONA-Ivan-Labanda-Lego-esta-molt-be-a-dalt-lescenari-pero-a-fora-ets-un-treballador.jpg"
+        },
+        {
+          "name": "Альберт Трифол Сегарра",
+          "img": "https://static.wikia.nocookie.net/wiki-doblaje-espana/images/6/64/Albert_Trifol_Segarra.png/revision/latest/smart/width/386/height/259?cb=20230917000031&path-prefix=es"
+        },
+        {
+          "name": "Рафаэль Кальво",
+          "img": "https://static.wikia.nocookie.net/international-dubbing/images/b/b4/Rafael_Calvo.jpg/revision/latest?cb=20210824233151"
+        }
+      ],
+      "ticketPrice": {
+        "adult": "18000",
+        "child": "10000"
+      }
+    }
+  ]
+}

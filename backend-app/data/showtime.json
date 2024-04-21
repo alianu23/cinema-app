@@ -1,0 +1,71 @@
+{
+    "times": [
+      {
+        "movie": "66013dd75a293be755bdfddf",
+        "cinema": "6605384b0f92c20a7e9d88fe",
+        "branch": "Өргөө 1",
+        "screen": "Танхим 1",
+        "startTime": {
+            "date": {
+                "month": "03",
+                "day": "29"
+            },
+            "time": "10:00"
+        }
+      },
+      {
+        "movie": "66013dd75a293be755bdfde0",
+        "cinema": "6605384b0f92c20a7e9d88fe",
+        "branch": "Өргөө 1",
+        "screen": "Танхим 1",
+        "startTime": {
+            "date": {
+                "month": "03",
+                "day": "29"
+            },
+            "time": "12:00"
+        }
+      },
+      {
+        "movie": "66013dd75a293be755bdfde1",
+        "cinema": "660692f73de61589e3b1f3fe",
+        "branch": "Өргөө 1",
+        "screen": "Танхим 1",
+        "startTime": {
+            "date": {
+                "month": "03",
+                "day": "29"
+            },
+            "time": "14:00"
+        }
+      },
+      {
+        "movie": "66013dd75a293be755bdfde2",
+        "cinema": "6605384b0f92c20a7e9d8906",
+        "branch": "Өргөө 1",
+        "screen": "Танхим 1",
+        "startTime": {
+            "date": {
+                "month": "03",
+                "day": "29"
+            },
+            "time": "16:00"
+        }
+      },
+      {
+        "movie": "66013dd75a293be755bdfde3",
+        "cinema": "6605384b0f92c20a7e9d8908",
+        "branch": "Өргөө 1",
+        "screen": "Танхим 1",
+        "startTime": {
+            "date": {
+                "month": "03",
+                "day": "29"
+            },
+            "time": "18:00"
+        }
+      }
+    ]
+  }
+  
+  
