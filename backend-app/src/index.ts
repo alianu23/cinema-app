@@ -37,8 +37,8 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://cinema-app-client.vercel.app",
-      "https://cinema-app-one.vercel.app",
+      "https://cinema-app-admin-front.vercel.app/",
+      "https://cinema-app-client-front.vercel.app/",
     ],
     credentials: true,
   })
